@@ -6,7 +6,7 @@ A content aggregator fetches information from various places online and gathers 
 # Setting up
 1. Clone repository 
 ```shell 
-
+git clone https://github.com/Sashleflash/Content-Aggregator-Project.git
 ```
 2. Move into project
 ```shell 
